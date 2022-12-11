@@ -1,11 +1,12 @@
 # app-dev
  My first repository
-#H1
 
-**1.Game of thrones
-2.Saving Private Ryan
-3.Pulp Fiction
-😂**
 
-This is my favorite series and movies ==very important words==
-
+| Favorite Movies | 📺 |
+| ----------- | ----------- |
+|1. | Saving Private Ryan |
+|2. | Pulp Fiction        |
+|3. | Django Unchained    |
+|4. | Game of Thrones     |
+|5. | House of Dragons    |
+|6. | Me, Earl and the Dying Girl | 
